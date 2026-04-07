@@ -10,23 +10,20 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
   - `01_Unterlagen`
   - `02_Versand`
   - `03_Rueckmeldungen`
-- Zwei Rueckmeldungen vom Ministerium dokumentiert (09.03.2026 und 10.03.2026).
-- Unterlagen sind noch nicht final in `01_Unterlagen` abgelegt.
-- E-Mail an Silke Blunck (Rueckfrage zum Status „fehlerhaft“) abgeschickt.
-- Bewerbungsmappe ist laut Ministerium aktuell fehlerhaft; Antwort ausstehend.
+- Rueckmeldungen vom Ministerium dokumentiert (09.03., 10.03. und 07.04.2026).
+- E-Mail an Silke Blunck (Rueckfrage zum Status „fehlerhaft“) war abgeschickt.
+- **Bewerbungsmappe laut Ministerium (07.04.2026) fuer Vertretungsaufgaben fehlerfrei.**
 
 ## Naechste Schritte (Noetigstes)
 
-- [ ] Grunddaten korrigieren: Vertretungslehrkraft = `Ja`
-- [ ] Grunddaten korrigieren: Dienststellenanschrift = Hamburger Schulbehoerde (nicht Schule)
-- [ ] Letzten Arbeitsvertrag aus dem oeffentlichen Schuldienst hochladen
-- [ ] Promotionsurkunde hochladen
-- [ ] Auf schriftliche Rueckmeldung warten; ggf. Portal erneut pruefen
-- [ ] Rueckmeldungen laufend in `03_Rueckmeldungen` erfassen
+- [ ] Portal pruefen, ob der Status dort ebenfalls „fehlerfrei“ / vollstaendig angezeigt wird
+- [ ] Auf weitere Schritte im Verfahren warten (Einladung, Zuordnung, ggf. Ruferliste)
+- [ ] Rueckmeldungen weiter in `03_Rueckmeldungen` festhalten
 
 ## Versandhistorie
 
 - E-Mail Rueckfrage an `Silke.Blunck@bimi.landsh.de` (Betreff: Status „fehlerhaft“ / offene Punkte) — gesendet.
+- Antwort 07.04.2026: Mappe **fehlerfrei** fuer Vertretungsaufgaben.
 
 ## Referenz
 
