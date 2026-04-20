@@ -4,6 +4,8 @@
 
 Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokumentieren.
 
+**Abgrenzung:** **Masern** und BSFB-Anforderungen gelten **nur** für Hamburg — siehe `../Hamburg_Schulen/STAND_DER_DINGE.md`.
+
 ## Aktueller Stand
 
 - Ordnerstruktur angelegt:
@@ -13,15 +15,17 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - Rueckmeldungen vom Ministerium dokumentiert (09.03., 10.03. und 07.04.2026).
 - E-Mail an Silke Blunck (Rueckfrage zum Status „fehlerhaft“) war abgeschickt.
 - **Bewerbungsmappe laut Ministerium (07.04.2026) fuer Vertretungsaufgaben fehlerfrei.**
-- Konkrete Anfrage der Grundschule Fahrenkrug eingegangen (befristet 01.05.-31.05.2026, mind. 22 Std.).
-- Rueckfrage zur Stundenlage/Pendelbarkeit wurde an Frau Lubinus gesendet und beantwortet (5 Tage/Woche, ab 07:45).
+- **Anfrage von der Schule erhalten:** Grundschule Fahrenkrug, konkrete Vertretungsanfrage (befristet 01.05.-31.05.2026, mind. 22 Std.) — Mailverlauf: `03_Rueckmeldungen/2026-04-20_Grundschule_Fahrenkrug_Mailverlauf.md`.
+- Rueckfrage zur Stundenlage/Pendelbarkeit: **beantwortet** (5 Tage/Woche, ab 07:45; Ende 12:30 an 2 Tagen, 13:20 an 3 Tagen).
+- TV-L bei der Schule: **keine verbindliche Auskunft**, nur inoffizielle Tabelle („ohne Gewähr“); verbindlich weiter **Mertens EG 12** + **Stufe Kreis-Schulamt** (siehe unten).
 - Anfrage zur voraussichtlichen TV-L-Eingruppierung wurde an die zustaendige Stelle in Kiel gesendet.
+- **Antwort Björn Mertens (BIMI, Referat 23, Kiel):** befristete Vertraege — Eingruppierung/Stufenfestsetzung durch **Schulamt des Kreises**; mit Master (Unterricht in mind. einem Fach) **EG 12**; **Stufe** nur dort — Volltext: `03_Rueckmeldungen/2026-04-20_Bjoern_Mertens_BIMI_Referat23_TV-L.md`.
 
 ## Naechste Schritte (Noetigstes)
 
+- [ ] **Fahrenkrug:** verbindliche **Zusage oder Absage** — in der Erstmail Rueckmeldung bis **Di. 21.04.2026, 12:00 Uhr**; bei Bedarf kurz nachfragen, ob das fuer die finale Antwort noch gilt. **EG 12** laut Mertens; die Schul-Tabelle ist unverbindlich („ohne Gewaehr“).
 - [ ] Portal pruefen, ob der Status dort ebenfalls „fehlerfrei“ / vollstaendig angezeigt wird
-- [ ] Auf Rueckmeldung zur TV-L-Eingruppierung/Stufe aus Kiel warten
-- [ ] Entscheidung zur Stelle in Fahrenkrug nach Eingruppierungsinfo verbindlich mitteilen
+- [ ] **Stufe:** beim **Schulamt Kreis Segeberg** klaeren — Kontakte: `Kontakt_Schulamt_Kreis_Segeberg.md`
 - [ ] Rueckmeldungen weiter in `03_Rueckmeldungen` festhalten
 
 ## Versandhistorie
@@ -34,6 +38,8 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 ## Referenz
 
 - Rueckmeldungsdatei: `03_Rueckmeldungen/2026-03-09_2026-03-10_Silke_Blunck.md`
-- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-04-07_Anfrage_Grundschule_Fahrenkrug.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-04-20_Grundschule_Fahrenkrug_Mailverlauf.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-04-20_Bjoern_Mertens_BIMI_Referat23_TV-L.md`
+- Kontakt Schulamt Kreis Segeberg: `Kontakt_Schulamt_Kreis_Segeberg.md`
 - Versanddatei: `02_Versand/2026-04-07_Antwort_Fahrenkrug_Pendelrueckfrage.md`
 - Versanddatei: `02_Versand/2026-04-20_Anfrage_TVL_Eingruppierung_Kiel.md`

@@ -1,21 +1,29 @@
 # Stand der Dinge — Hamburg (BSFB / Schulbewerbungen)
 
+**Abgrenzung:** Alles hier (insbesondere **Masern** und BSFB-Vorgaben) betrifft **nur** die Bewerbung beim **hamburgischen Schuldienst** — **nicht** die parallele Bewerbung Schleswig-Holstein (`../Schleswig-Holstein_Schule/`).
+
 ## Ziel
 
 Bewerbung für den **hamburgischen Schuldienst** vollständig machen und Rückmeldungen der Behörde abarbeiten.
 
-## Aktueller Stand (aus Mails bis 10.03.2026)
+## Aktueller Stand
+
+### Portal (aktuell)
+
+- **Laut Portal:** es fehlen **keine** Unterlagen / Pflichtfelder mehr (alles als erledigt angezeigt).
+
+### Historisch (Mails bis 10.03.2026)
 
 - Behörde: **BSFB**, Personalabteilung V 442.
 - Bewerbung wurde mehrfach als **unvollständig** zurückgemeldet.
-- **Masernschutz:** zuletzt konkret — Impfpass entspricht **nicht** den Anforderungen; es werden **zwei Masernimpfungen** verlangt, **jeweils mit eigenem Stempel und eigener Unterschrift** — oder **ärztliche Bescheinigung** (Immunität / Kontraindikation).
-- Weitere Punkte: Lebenslauf mit Bild, Physik-Nachweise, Dr.-Nachweis, PLZ, Namenszusatz.
+- **Masernschutz:** zuletzt konkret — Impfpass entsprach **nicht** den Anforderungen; es wurden **zwei Masernimpfungen** verlangt, **jeweils mit eigenem Stempel und eigener Unterschrift** — oder **ärztliche Bescheinigung** (Immunität / Kontraindikation).
+- Weitere genannte Punkte: Lebenslauf mit Bild, Physik-Nachweise, Dr.-Nachweis, PLZ, Namenszusatz.
 
 ## Nächste Schritte
 
-- [ ] Portal: alle genannten Felder und Uploads prüfen.
-- [ ] Masern: **Variante wählen** — (1) Impfpass mit zwei klar getrennten ärztlichen Bestätigungen pro Impfung, oder (2) **ärztliche Bescheinigung** Immunität/Kontraindikation.
-- [ ] Bei Rückfragen: `personalsachgebietv442@bsfb.hamburg.de`
+- [ ] **Portal-Status sichern** (Screenshot oder PDF/Export), falls die BSFB später noch nachfragt.
+- [ ] **Posteingang BSFB** beobachten: formale Bestätigung „vollständig“ o.ä. abwarten — Portal allein ist hilfreich, die Behörde entscheidet schriftlich.
+- [ ] Bei Rückfragen oder wenn das Portal wieder etwas anzeigt: `personalsachgebietv442@bsfb.hamburg.de`
 
 ## Referenz
 
