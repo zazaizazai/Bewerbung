@@ -20,6 +20,8 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - TV-L bei der Schule: **keine verbindliche Auskunft**, nur inoffizielle Tabelle („ohne Gewähr“); verbindlich weiter **Mertens EG 12** + **Stufe Kreis-Schulamt** (siehe unten).
 - Anfrage zur voraussichtlichen TV-L-Eingruppierung wurde an die zustaendige Stelle in Kiel gesendet.
 - **Antwort Björn Mertens (BIMI, Referat 23, Kiel):** befristete Vertraege — Eingruppierung/Stufenfestsetzung durch **Schulamt des Kreises**; mit Master (Unterricht in mind. einem Fach) **EG 12**; **Stufe** nur dort — Volltext: `03_Rueckmeldungen/2026-04-20_Bjoern_Mertens_BIMI_Referat23_TV-L.md`.
+- **Anfrage Grundschule Trappenkamp (22.05.2026):** 26 Std., 01.06.–31.07.2026, Fächer flexibel; Frist Kontakt 22.05., 14:00 Uhr.
+- **Entscheid Trappenkamp:** nicht weiter verfolgen (Qualifikation passt nicht; keine Mail-Pflicht, Entwurf optional in `02_Versand`).
 
 ## Naechste Schritte (Noetigstes)
 
@@ -43,3 +45,5 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - Kontakt Schulamt Kreis Segeberg: `Kontakt_Schulamt_Kreis_Segeberg.md`
 - Versanddatei: `02_Versand/2026-04-07_Antwort_Fahrenkrug_Pendelrueckfrage.md`
 - Versanddatei: `02_Versand/2026-04-20_Anfrage_TVL_Eingruppierung_Kiel.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-05-22_Anfrage_Grundschule_Trappekamp.md`
+- Entscheid/Entwurf: `02_Versand/2026-05-22_Entscheid_Trappekamp_nicht_verfolgen.md`
