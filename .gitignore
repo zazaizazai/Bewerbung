@@ -2,6 +2,9 @@ Thumbs.db
 .DS_Store
 ~$*.docx
 
+# OneDrive Konfliktkopien (z. B. STAND_DER_DINGE-DESKTOP-*.md)
+*-DESKTOP-*.md
+
 # Keep repository focused on curated package
 Schule2026/
 2026-03-08 PromUrkunde/
