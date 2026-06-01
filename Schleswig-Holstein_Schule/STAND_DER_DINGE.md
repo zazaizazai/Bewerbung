@@ -23,10 +23,13 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - **Rueckmeldung Schulamt (Frau Sauer):** bei moeglicher Einstellung **EG 12 TV-L**; wegen langer Unterbrechung derzeit erste Einschaetzung **Stufe 1**. Finale Stufenpruefung erfolgt erst bei **konkretem Einstellungsangebot** und eingereichten Unterlagen — Volltext: `03_Rueckmeldungen/2026-04-22_Frau_Sauer_Stufenzuordnung.md`.
 - **Anfrage Grundschule Trappenkamp (22.05.2026):** 26 Std., 01.06.–31.07.2026, Fächer flexibel; Frist Kontakt 22.05., 14:00 Uhr.
 - **Entscheid Trappenkamp:** nicht weiter verfolgen (Qualifikation passt nicht; keine Mail-Pflicht, Entwurf optional in `02_Versand`).
+- **Anfrage Silke Siedek (pBon-Massenmail):** Vertretung **Elternzeit** ab **01.08.2026**, mind. bis Osterferien 2027 (evtl. ganzes SJ), **29–35 Std.**; kleine GS vor Hamburg; **Religion dringend**; kein Klassenlehreramt — Volltext: `03_Rueckmeldungen/2026-06-01_Anfrage_Silke_Siedek_Vertretung_Elternzeit.md`.
+- **Interesse Siedek:** kurze Mail formuliert — Entwurf: `02_Versand/2026-06-01_Interesse_Silke_Siedek_Vertretung_Elternzeit.md`.
 
 ## Naechste Schritte (Noetigstes)
 
-- [ ] **Fahrenkrug:** verbindliche **Zusage oder Absage** senden (Frist aus Erstmail war Di. 21.04.2026, 12:00 Uhr; ggf. kurz Friststatus klaeren).
+- [ ] **Siedek:** Interessensmail **versenden** (Frist **01.06.2026**); Gespraechstermin **diese Woche** mittags/nachmittags bestaetigen
+- [x] **Fahrenkrug:** nicht weiter verfolgen (keine Zusage; keine weitere Aktion noetig).
 - [ ] Portal pruefen, ob der Status dort ebenfalls „fehlerfrei“ / vollstaendig angezeigt wird
 - [x] **Eingruppierung geklaert:** voraussichtlich **EG 12**
 - [ ] **Stufe final:** erst bei konkretem Einstellungsangebot; dann relevante Unterlagen ans Schulamt/Ministerium nachreichen
@@ -51,3 +54,5 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - Versanddatei: `02_Versand/2026-04-20_Anfrage_TVL_Eingruppierung_Kiel.md`
 - Rueckmeldungsdatei: `03_Rueckmeldungen/2026-05-22_Anfrage_Grundschule_Trappekamp.md`
 - Entscheid/Entwurf: `02_Versand/2026-05-22_Entscheid_Trappekamp_nicht_verfolgen.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-01_Anfrage_Silke_Siedek_Vertretung_Elternzeit.md`
+- Versanddatei: `02_Versand/2026-06-01_Interesse_Silke_Siedek_Vertretung_Elternzeit.md`
