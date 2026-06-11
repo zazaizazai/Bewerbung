@@ -24,14 +24,22 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - **Anfrage Grundschule Trappenkamp (22.05.2026):** 26 Std., 01.06.–31.07.2026, Fächer flexibel; Frist Kontakt 22.05., 14:00 Uhr.
 - **Entscheid Trappenkamp:** nicht weiter verfolgen (Qualifikation passt nicht; keine Mail-Pflicht, Entwurf optional in `02_Versand`).
 - **Anfrage Silke Siedek (pBon-Massenmail):** Vertretung **Elternzeit** ab **01.08.2026**, mind. bis Osterferien 2027 (evtl. ganzes SJ), **29–35 Std.**; kleine GS vor Hamburg; **Religion dringend**; kein Klassenlehreramt — Volltext: `03_Rueckmeldungen/2026-06-01_Anfrage_Silke_Siedek_Vertretung_Elternzeit.md`.
-- **Interesse Siedek:** kurze Mail formuliert — Entwurf: `02_Versand/2026-06-01_Interesse_Silke_Siedek_Vertretung_Elternzeit.md`.
+- **Siedek:** Runde-1-Gespraech **nicht eingeladen** (13.06.2026); Nachrueckung bei offenen Stunden moeglich — `03_Rueckmeldungen/2026-06-13_Silke_Siedek_Rueckmeldung_Gespraechsrunde.md`.
 - **Anfrage Grundschule Alter Landweg, Kaltenkirchen (Carem Sommer):** befristet **01.08.2026–31.07.2027**, Voll-/Teilzeit; **Nebenfaecher + Unterstuetzung**, kein Klassenlehreramt — Volltext: `03_Rueckmeldungen/2026-06-12_Anfrage_Grundschule_Alter_Landweg_Kaltenkirchen.md`.
-- **Interesse Alter Landweg:** kurze Mail formuliert — Entwurf: `02_Versand/2026-06-12_Interesse_Alter_Landweg_Kaltenkirchen.md`.
+- **Interesse Alter Landweg:** Interessensmail **gesendet** (12.06.2026) — `02_Versand/2026-06-12_Interesse_Alter_Landweg_Kaltenkirchen.md`.
+- **Anfrage OGGS Heidberg, Norderstedt (Ingke Rehfeld):** Vertretung **01.08.2026–31.01.2027**; Schwerpunkt **Mathematik** im GS-Bereich — Volltext: `03_Rueckmeldungen/2026-06-11_Anfrage_OGGS_Heidberg_Norderstedt.md`.
+- **Interesse Heidberg:** Interessensmail **gesendet** (11.06.2026) — `02_Versand/2026-06-11_Interesse_OGGS_Heidberg_Norderstedt.md`.
+- **Anfrage OGGS Luetjenmoor, Norderstedt (Ulrike Sydow):** bis **28 Std.**, Schwerpunkt **Deutsch + Sport** — Volltext: `03_Rueckmeldungen/2026-06-12_Anfrage_OGGS_Luetjenmoor_Norderstedt.md`.
+- **Entscheid Luetjenmoor:** nicht weiter verfolgen (Sport passt nicht; keine Mail-Pflicht).
+- **Anfrage Kathrin Domanowski (pBon):** **Mathe/SU**, **25 Std.**, SJ **2026/27**; kleines Team — Volltext: `03_Rueckmeldungen/2026-06-12_Anfrage_Kathrin_Domanowski_Mathe_SU.md`.
+- **Interesse Domanowski:** Interessensmail **gesendet** (12.06.2026) — `02_Versand/2026-06-12_Interesse_Domanowski_Mathe_SU.md`.
 
 ## Naechste Schritte (Noetigstes)
 
-- [ ] **Alter Landweg:** Interessensmail **versenden** (Frist **12.06.2026**)
-- [ ] **Siedek:** Interessensmail **versenden** (Frist **01.06.2026**); Gespraechstermin **diese Woche** mittags/nachmittags bestaetigen
+- [x] **Domanowski:** Interessensmail gesendet (12.06.2026)
+- [x] **Heidberg:** Interessensmail gesendet (11.06.2026)
+- [x] **Alter Landweg:** Interessensmail gesendet (12.06.2026)
+- [x] **Siedek:** Runde 1 abgesagt; **auf Nachrueckung warten** (keine Aktion)
 - [x] **Fahrenkrug:** nicht weiter verfolgen (keine Zusage; keine weitere Aktion noetig).
 - [ ] Portal pruefen, ob der Status dort ebenfalls „fehlerfrei“ / vollstaendig angezeigt wird
 - [x] **Eingruppierung geklaert:** voraussichtlich **EG 12**
@@ -45,6 +53,10 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - 07.04.2026: Antwort an Grundschule Fahrenkrug (Interesse + Rueckfrage zur Stundenlage/Pendelbarkeit) — gesendet.
 - 20.04.2026: Anfrage an Kiel zur TV-L-Eingruppierung/Stufe fuer die Fahrenkrug-Vertretung — gesendet.
 - 22.04.2026: Rueckmeldung Schulamt (Frau Sauer): EG 12 bestaetigt; erste Einschaetzung Stufe 1; finale Stufenpruefung erst bei Einstellungsangebot.
+- 11.06.2026: Interessensmail an OGGS Heidberg, Norderstedt (Ingke Rehfeld) — gesendet.
+- 12.06.2026: Interessensmail an Kathrin Domanowski (Mathe/SU, SJ 2026/27) — gesendet.
+- 12.06.2026: Interessensmail an Grundschule Alter Landweg, Kaltenkirchen (Carem Sommer) — gesendet.
+- 13.06.2026: Rueckmeldung Silke Siedek — nicht in Gespraechsrunde 1; Nachrueckung bei offenen Stunden moeglich.
 
 ## Referenz
 
@@ -59,5 +71,12 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - Entscheid/Entwurf: `02_Versand/2026-05-22_Entscheid_Trappekamp_nicht_verfolgen.md`
 - Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-01_Anfrage_Silke_Siedek_Vertretung_Elternzeit.md`
 - Versanddatei: `02_Versand/2026-06-01_Interesse_Silke_Siedek_Vertretung_Elternzeit.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-13_Silke_Siedek_Rueckmeldung_Gespraechsrunde.md`
 - Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-12_Anfrage_Grundschule_Alter_Landweg_Kaltenkirchen.md`
 - Versanddatei: `02_Versand/2026-06-12_Interesse_Alter_Landweg_Kaltenkirchen.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-11_Anfrage_OGGS_Heidberg_Norderstedt.md`
+- Versanddatei: `02_Versand/2026-06-11_Interesse_OGGS_Heidberg_Norderstedt.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-12_Anfrage_OGGS_Luetjenmoor_Norderstedt.md`
+- Entscheid: `02_Versand/2026-06-12_Entscheid_Luetjenmoor_nicht_verfolgen.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-12_Anfrage_Kathrin_Domanowski_Mathe_SU.md`
+- Versanddatei: `02_Versand/2026-06-12_Interesse_Domanowski_Mathe_SU.md`

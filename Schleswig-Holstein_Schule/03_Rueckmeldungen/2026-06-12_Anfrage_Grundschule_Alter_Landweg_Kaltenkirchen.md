@@ -28,5 +28,5 @@
 
 ## Einordnung
 
-- Passt eher als **Unterstuetzung / Sachunterricht** (ggf. Mathe nach Absprache); kein Klassenlehreramt.
-- Versand: `02_Versand/2026-06-12_Interesse_Alter_Landweg_Kaltenkirchen.md`
+- Passt als **Mathematik / Sachunterricht** + Unterstuetzung; kein Klassenlehreramt.
+- **Interessensmail gesendet** (12.06.2026) — Volltext: `02_Versand/2026-06-12_Interesse_Alter_Landweg_Kaltenkirchen.md`

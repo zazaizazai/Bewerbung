@@ -31,6 +31,5 @@
 
 ## Eigener Stand
 
-- **Interesse:** ja (kurze Interessensmail formuliert).
-- Angebot Faecher: Mathematik, Sachunterricht, Deutsch; Religion im Gespraech klaeren.
-- Versand: siehe `02_Versand/2026-06-01_Interesse_Silke_Siedek_Vertretung_Elternzeit.md`
+- Interesse gezeigt (pBon/Mail).
+- **13.06.2026:** Rueckmeldung Siedek — **Runde 1 Gespraech nicht eingeladen** (Prioritaet fertig studierte Lehrkraefte); Nachrueckung moeglich bei offenen Stunden — `2026-06-13_Silke_Siedek_Rueckmeldung_Gespraechsrunde.md`
