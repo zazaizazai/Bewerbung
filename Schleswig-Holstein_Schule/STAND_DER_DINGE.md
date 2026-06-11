@@ -25,9 +25,12 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - **Entscheid Trappenkamp:** nicht weiter verfolgen (Qualifikation passt nicht; keine Mail-Pflicht, Entwurf optional in `02_Versand`).
 - **Anfrage Silke Siedek (pBon-Massenmail):** Vertretung **Elternzeit** ab **01.08.2026**, mind. bis Osterferien 2027 (evtl. ganzes SJ), **29–35 Std.**; kleine GS vor Hamburg; **Religion dringend**; kein Klassenlehreramt — Volltext: `03_Rueckmeldungen/2026-06-01_Anfrage_Silke_Siedek_Vertretung_Elternzeit.md`.
 - **Interesse Siedek:** kurze Mail formuliert — Entwurf: `02_Versand/2026-06-01_Interesse_Silke_Siedek_Vertretung_Elternzeit.md`.
+- **Anfrage Grundschule Alter Landweg, Kaltenkirchen (Carem Sommer):** befristet **01.08.2026–31.07.2027**, Voll-/Teilzeit; **Nebenfaecher + Unterstuetzung**, kein Klassenlehreramt — Volltext: `03_Rueckmeldungen/2026-06-12_Anfrage_Grundschule_Alter_Landweg_Kaltenkirchen.md`.
+- **Interesse Alter Landweg:** kurze Mail formuliert — Entwurf: `02_Versand/2026-06-12_Interesse_Alter_Landweg_Kaltenkirchen.md`.
 
 ## Naechste Schritte (Noetigstes)
 
+- [ ] **Alter Landweg:** Interessensmail **versenden** (Frist **12.06.2026**)
 - [ ] **Siedek:** Interessensmail **versenden** (Frist **01.06.2026**); Gespraechstermin **diese Woche** mittags/nachmittags bestaetigen
 - [x] **Fahrenkrug:** nicht weiter verfolgen (keine Zusage; keine weitere Aktion noetig).
 - [ ] Portal pruefen, ob der Status dort ebenfalls „fehlerfrei“ / vollstaendig angezeigt wird
@@ -56,3 +59,5 @@ Bewerbung vollstaendig vorbereiten, versenden und Rueckmeldungen sauber dokument
 - Entscheid/Entwurf: `02_Versand/2026-05-22_Entscheid_Trappekamp_nicht_verfolgen.md`
 - Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-01_Anfrage_Silke_Siedek_Vertretung_Elternzeit.md`
 - Versanddatei: `02_Versand/2026-06-01_Interesse_Silke_Siedek_Vertretung_Elternzeit.md`
+- Rueckmeldungsdatei: `03_Rueckmeldungen/2026-06-12_Anfrage_Grundschule_Alter_Landweg_Kaltenkirchen.md`
+- Versanddatei: `02_Versand/2026-06-12_Interesse_Alter_Landweg_Kaltenkirchen.md`
